@@ -1,8 +1,8 @@
 ## 你好，我是 Alex Sun 👋
 
-- 北美程序员
-- 15 年开发经验
-- 喜欢探索未知世界
+北美程序员，有 15 年开发经验，喜欢探索未知世界。
+
+I'm a software developer in North America with 15 years of experience and a curiosity for the unknown.
 
 ### 📚 学习笔记
 
